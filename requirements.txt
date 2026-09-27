@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+google-genai
+python-dotenv
+jupyter

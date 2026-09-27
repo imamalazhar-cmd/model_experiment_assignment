@@ -1,0 +1,3 @@
+Pendekatan,Accuracy,Precision,Recall,F1-Score,Waktu (detik),Perlu Training,Biaya
+Model Klasik (TF-IDF + Logistic Regression),1.0,1.0,1.0,1.0,,Ya,~0 (lokal)
+LLM API (Gemini),1.0,1.0,1.0,1.0,,Tidak,Per token / kuota API
